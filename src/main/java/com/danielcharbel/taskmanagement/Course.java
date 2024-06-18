@@ -2,7 +2,6 @@ package com.danielcharbel.taskmanagement;
 
 import jakarta.persistence.Entity;
 
-@Entity
 public class Course {
     private final long id;
     private final String name;
